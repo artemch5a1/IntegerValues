@@ -1,0 +1,11 @@
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\bin\Debug\net9.0\IntegerValues.deps.json
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\bin\Debug\net9.0\IntegerValues.dll
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\bin\Debug\net9.0\IntegerValues.pdb
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.AssemblyInfoInputs.cache
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.AssemblyInfo.cs
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.csproj.CoreCompileInputs.cache
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.dll
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\refint\IntegerValues.dll
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.pdb
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\ref\IntegerValues.dll
