@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C09498-2782-4BF4-A9C2-C67E19AB3A20}|IntegerValues\\IntegerValues.csproj|e:\\artem\\my works\\projects\\\u043F\u0440\u043E\u0435\u043A\u0442\u044Bvs\\classlibrary\\integervalues\\integervalues\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C09498-2782-4BF4-A9C2-C67E19AB3A20}|IntegerValues\\IntegerValues.csproj|solutionrelative:integervalues\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\IntegerValues\\Class1.cs",
+              "RelativeDocumentMoniker": "IntegerValues\\Class1.cs",
+              "ToolTip": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\IntegerValues\\Class1.cs",
+              "RelativeToolTip": "IntegerValues\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:01:14.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
