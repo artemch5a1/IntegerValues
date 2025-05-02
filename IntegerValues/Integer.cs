@@ -32,7 +32,7 @@
                 return integerPart - 1;
             }
 
-            return integerPart + 1;
+            return integerPart;
         }
 
         public static bool IsEven(int number)
