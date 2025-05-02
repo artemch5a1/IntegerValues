@@ -9,3 +9,4 @@ E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerVa
 E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\refint\IntegerValues.dll
 E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.pdb
 E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\ref\IntegerValues.dll
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\IntegerValues\obj\Debug\net9.0\IntegerValues.sourcelink.json

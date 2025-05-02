@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestIntegerValue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f72eecbcc2798bff31478fcb80293aa4874d384d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d22ce565eb64558d2b2791c366ab6d844133da2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestIntegerValue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestIntegerValue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

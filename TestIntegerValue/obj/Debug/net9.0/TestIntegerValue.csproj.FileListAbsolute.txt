@@ -169,3 +169,4 @@ E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\TestInteg
 E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\TestIntegerValue\obj\Debug\net9.0\TestIntegerValue.pdb
 E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\TestIntegerValue\obj\Debug\net9.0\TestIntegerValue.genruntimeconfig.cache
 E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\TestIntegerValue\obj\Debug\net9.0\ref\TestIntegerValue.dll
+E:\Artem\My works\Projects\ПроектыVs\ClassLibrary\IntegerValues\TestIntegerValue\obj\Debug\net9.0\TestIntegerValue.sourcelink.json

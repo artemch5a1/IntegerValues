@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08C09498-2782-4BF4-A9C2-C67E19AB3A20}|IntegerValues\\IntegerValues.csproj|e:\\artem\\my works\\projects\\\u043F\u0440\u043E\u0435\u043A\u0442\u044Bvs\\classlibrary\\integervalues\\integervalues\\integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C09498-2782-4BF4-A9C2-C67E19AB3A20}|IntegerValues\\IntegerValues.csproj|solutionrelative:integervalues\\integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8E2210A-97C2-49B7-8847-A28095D3DB25}|TestIntegerValue\\TestIntegerValue.csproj|e:\\artem\\my works\\projects\\\u043F\u0440\u043E\u0435\u043A\u0442\u044Bvs\\classlibrary\\integervalues\\testintegervalue\\testinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E2210A-97C2-49B7-8847-A28095D3DB25}|TestIntegerValue\\TestIntegerValue.csproj|solutionrelative:testintegervalue\\testinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E2210A-97C2-49B7-8847-A28095D3DB25}|TestIntegerValue\\TestIntegerValue.csproj|e:\\artem\\my works\\projects\\\u043F\u0440\u043E\u0435\u043A\u0442\u044Bvs\\classlibrary\\integervalues\\testintegervalue\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8E2210A-97C2-49B7-8847-A28095D3DB25}|TestIntegerValue\\TestIntegerValue.csproj|solutionrelative:testintegervalue\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08C09498-2782-4BF4-A9C2-C67E19AB3A20}|IntegerValues\\IntegerValues.csproj|e:\\artem\\my works\\projects\\\u043F\u0440\u043E\u0435\u043A\u0442\u044Bvs\\classlibrary\\integervalues\\integervalues\\integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C09498-2782-4BF4-A9C2-C67E19AB3A20}|IntegerValues\\IntegerValues.csproj|solutionrelative:integervalues\\integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\TestIntegerValue\\Test1.cs",
-              "RelativeDocumentMoniker": "TestIntegerValue\\Test1.cs",
-              "ToolTip": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\TestIntegerValue\\Test1.cs",
-              "RelativeToolTip": "TestIntegerValue\\Test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:28:53.385Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -40,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestInteger.cs",
+              "DocumentMoniker": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\TestIntegerValue\\TestInteger.cs",
+              "RelativeDocumentMoniker": "TestIntegerValue\\TestInteger.cs",
+              "ToolTip": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\TestIntegerValue\\TestInteger.cs",
+              "RelativeToolTip": "TestIntegerValue\\TestInteger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:28:53.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Integer.cs",
               "DocumentMoniker": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\IntegerValues\\Integer.cs",
               "RelativeDocumentMoniker": "IntegerValues\\Integer.cs",
               "ToolTip": "E:\\Artem\\My works\\Projects\\\u041F\u0440\u043E\u0435\u043A\u0442\u044BVs\\ClassLibrary\\IntegerValues\\IntegerValues\\Integer.cs",
               "RelativeToolTip": "IntegerValues\\Integer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwCwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T15:01:14.205Z",
               "EditorCaption": ""
